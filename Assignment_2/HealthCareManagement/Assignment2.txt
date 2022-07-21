@@ -1,0 +1,4 @@
+SE1,Nguyen Tien Hung,21,Male,nguyentienhung6967@gmail.com,0898426967,41/20 duong so 3,1,No
+SE2,Nguyen Thy Yang,22,Female,nguyenthyyang@gmail.com,0898426967,Phan Tay Ho,1,No
+SE3,Tran Thi Van,19,Female,tranthivan@gmail.com,0986104577,Pham Van Chieu,1,Good
+SE4,Escanor,30,Male,Escanor@gmail.com,0987654321,Nantsu no Taizan,2,Very Good
